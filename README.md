@@ -22,4 +22,12 @@ Der Shop kann zu 100 % nach euren wünschen angepasst werden. Das ist im Preis *
 - Schönes Bootstrap Admin Panel
 - Sauberes Script
 	- Die CMS ist sehr sauber gecodet, da ich es gar nicht abhaben kann, wenn etwas einfach nur dahin geklatscht ist.
-
+- Template System
+	- Das Template ist wechselbar.
+	
+# Geplante Features
+Hier findest du eine liste mit dingen, die ich vor habe umzusetzen. Ihr könnt auch mitwirken und mir neue Ideen einsenden (Dafür das Formular per PN oder Jabber senden).
+- Plugin System
+- Weitere Payment Apis
+- XMPP Bot
+- Telegram Bot
