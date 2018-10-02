@@ -19,5 +19,7 @@ Der Shop kann zu 100 % nach euren wünschen angepasst werden. Das ist im Preis *
 	- Accounts
 	- Keys
 	- Ware
-- 
+- Schönes Bootstrap Admin Panel
+- Sauberes Script
+	- Die CMS ist sehr sauber gecodet, da ich es gar nicht abhaben kann, wenn etwas einfach nur dahin geklatscht ist.
 
